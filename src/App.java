@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        int ikä = 65;
+        int ikä = 25;
 
         //if (ikä >= 0 && ikä < 18)
         if (ikä >= 0 && ikä < 18){
